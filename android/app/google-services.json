@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367614407339",
+    "project_id": "food-ecom-e4584",
+    "storage_bucket": "food-ecom-e4584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367614407339:android:7541a82c2f12e01559bdee",
+        "android_client_info": {
+          "package_name": "com.example.food_ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgBV6oy9gMrRH-KJZSkj5YTvfG3GkNDg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
